@@ -2,4 +2,3 @@ requests
 gunicorn
 Flask
 Keras
-tensorflow.compat
