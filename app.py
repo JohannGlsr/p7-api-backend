@@ -1,5 +1,6 @@
 from flask import Flask, request, jsonify
-from tensorflow.keras.models import load_model
+# from tensorflow.keras.models import load_model
+from keras.models import load_model
 import pickle
 
 # Chargement du tokenizer
